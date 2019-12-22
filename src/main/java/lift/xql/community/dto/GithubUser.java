@@ -32,7 +32,7 @@ public class GithubUser {
     //  ctrl + shift +F12
     // ctrl + shift + r
     // ctrl + alt + v
-
+    // alt + enter
     @Override
     public String toString() {
         return "GithubUser{" +
