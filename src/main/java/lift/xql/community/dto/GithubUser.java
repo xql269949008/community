@@ -28,4 +28,17 @@ public class GithubUser {
     public void setBio(String bio) {
         this.bio = bio;
     }
+    // 快捷键  alt + insert
+    //  ctrl + shift +F12
+    // ctrl + shift + r
+    // ctrl + alt + v
+
+    @Override
+    public String toString() {
+        return "GithubUser{" +
+                "name='" + name + '\'' +
+                ", id=" + id +
+                ", bio='" + bio + '\'' +
+                '}';
+    }
 }
