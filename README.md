@@ -10,3 +10,5 @@
      ctrl + shift + r
      ctrl + alt + v
      alt + enter
+     shift + ctrl + alt + ?
+     ctrl + e
